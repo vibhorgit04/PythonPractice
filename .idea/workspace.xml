@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69634593-8cc6-4e45-bf13-758f0a5be9d0" name="Changes" comment="" />
+    <list default="true" id="69634593-8cc6-4e45-bf13-758f0a5be9d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/allure_result/9f5759df-a114-488a-a2cd-69058cbd92d9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/allure_result/e2cdba0d-c3d5-4f13-b421-72f8747ed187-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/4612f1bdcc8c889c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/d11b3692b162cc8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/efb8a4228869c326.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/current_log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/current_log_file.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/behaviors.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/categories.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/packages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/suites.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/suites.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/137dd4adca937b31.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/1458d00a87448856.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/2e8c8d10eb75c014.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/31f072a0a50a2e41.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/37956ae070e79a84.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/6da00443cc6d078e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/d7466ea4bd787823.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/51f254d3157b271c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/e8cb5d1c1be932a7.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/774a0bf4b0fa40c9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/f8e26325418e7989.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/timeline.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/export/prometheusData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/history/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/history/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/history/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/history/history.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/history/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/behaviors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/categories-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/categories.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/duration-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/duration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/history-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/retry-trend.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/severity.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/status-chart.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/summary.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/steps_impl.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/steps_impl.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +57,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/venv/Scripts/activate.bat" root0="SKIP_INSPECTION" />
   </component>
@@ -22,6 +73,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Jo50lCRRFJhDP8CqHjomtko3EA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,7 +83,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/vibhor.agrawal/PycharmProjects/ApiDemo/Report/allure_result&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -222,6 +274,17 @@
       <updated>1672731374406</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

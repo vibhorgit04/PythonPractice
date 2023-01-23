@@ -25,7 +25,7 @@ log = logsfile.get_logs()
 #
 # @when(u'User execute POST operation')
 # def step_impl(context):
-#     context.response = RequestHelper().post(wc_endpoint=context.url, params=context.payload, expected_status_code=201)
+#     context.response = RequestHelper().post(endpoint=context.url, params=context.payload, expected_status_code=201)
 #
 #
 # @then(u'User is created with success code')
@@ -49,7 +49,7 @@ def step_impl(context):
 
 @when(u'User execute GET operation')
 def step_impl(context):
-    context.response = RequestHelper().get(wc_endpoint=context.url, params=context.headers, expected_status_code=200)
+    context.response = RequestHelper().get(endpoint=context.url, params=context.headers, expected_status_code=200)
     print(context.response)
 
 @then(u'User is retrieved with {name} and {surname}')
@@ -67,7 +67,7 @@ def step_impl(context,isbn,aisle):
 
 @when(u'we execute the AddBook PostAPI method')
 def step_impl(context):
-    context.response = RequestHelper().post(wc_endpoint=context.url, params=context.payload, expected_status_code=200)
+    context.response = RequestHelper().post(endpoint=context.url, params=context.payload, expected_status_code=200)
     #context.response = requests.post(context.url, json=context.payload , headers=context.headers)
     print(context.response)
 
