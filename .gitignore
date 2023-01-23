@@ -2,9 +2,7 @@
 !.idea/vcs.xml
 !.idea/icon.png
 .idea/workspace.xml
-*.pyc
 *.pyo
-./__pycache__/
 /Logs/*
 *.iml
 *.ipr
@@ -13,6 +11,8 @@
 .cache
 .log
 schema
+__pycache__/
+*.pyc
 build
 /*/allure-results/
 out
