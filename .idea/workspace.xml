@@ -2,47 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69634593-8cc6-4e45-bf13-758f0a5be9d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Report/allure_result/9f5759df-a114-488a-a2cd-69058cbd92d9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Report/allure_result/e2cdba0d-c3d5-4f13-b421-72f8747ed187-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/4612f1bdcc8c889c.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/d11b3692b162cc8.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/efb8a4228869c326.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/current_log_file.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/current_log_file.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/behaviors.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/behaviors.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/categories.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/categories.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/packages.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/suites.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/suites.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/137dd4adca937b31.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/1458d00a87448856.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/2e8c8d10eb75c014.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/31f072a0a50a2e41.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/37956ae070e79a84.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/6da00443cc6d078e.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/d7466ea4bd787823.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/51f254d3157b271c.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/e8cb5d1c1be932a7.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/test-cases/774a0bf4b0fa40c9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/test-cases/f8e26325418e7989.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/data/timeline.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/export/influxDbData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/export/prometheusData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/history/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/history/categories-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/history/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/history/duration-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/history/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/history/history-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/history/history.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/history/history.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/history/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/history/retry-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/behaviors.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/categories-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/categories-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/categories.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/categories.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/duration-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/duration-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/duration.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/duration.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/history-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/history-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/retry-trend.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/retry-trend.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/severity.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/severity.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/status-chart.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/status-chart.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/test-report/widgets/summary.json" beforeDir="false" afterPath="$PROJECT_DIR$/Report/test-report/widgets/summary.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/steps/steps_impl.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/steps_impl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/allure_result/370fea85-fec1-4622-9510-3ad1ab248f4e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/allure_result/9f5759df-a114-488a-a2cd-69058cbd92d9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/allure_result/a10002b9-0630-404f-af7b-6b4d1b3fd5a3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/allure_result/a1acfe36-2da3-4685-87f6-55e340ee0352-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/allure_result/a473fcef-e2b4-425a-96fd-ae93917d461d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/allure_result/dc58eabc-7a79-41b1-aa69-0e4f21b48af5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/allure_result/e2cdba0d-c3d5-4f13-b421-72f8747ed187-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/allure_result/eced304c-e348-457d-9df6-8d00708aa9c6-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/allure_result/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/allure_result/history.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

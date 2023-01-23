@@ -1,3 +1,3 @@
-20/01/2023 04:39:14 PM: INFO: RequestHelper: get: Params: content-type:application/json
-20/01/2023 04:39:15 PM: INFO: RequestHelper: post: Params: {'name': 'Learn Python Automation with BDD', 'isbn': 'kjf842v', 'aisle': '28618', 'author': 'Vibhor GL'}
-20/01/2023 04:39:19 PM: ERROR: DbHelper: execute_select: Failed running sql SELECT * FROM  Books WHERE BookName = 'Selenium';. Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
+23/01/2023 01:59:33 PM: INFO: RequestHelper: get: Params: content-type:application/json
+23/01/2023 01:59:34 PM: INFO: RequestHelper: post: Params: {'name': 'Learn Python Automation with BDD', 'isbn': 'kjf842v', 'aisle': '28618', 'author': 'Vibhor GL'}
+23/01/2023 01:59:38 PM: ERROR: DbHelper: execute_select: Failed running sql SELECT * FROM  Books WHERE BookName = 'Selenium';. Error: 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061)
