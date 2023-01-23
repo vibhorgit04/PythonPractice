@@ -3,15 +3,14 @@
 !.idea/icon.png
 .idea/workspace.xml
 *.pyo
-/Logs/*
 *.iml
 *.ipr
 .allure
 .gradle
 .cache
-.log
+*.log
 schema
-__pycache__/
+**/__pycache__/
 *.pyc
 build
 /*/allure-results/
