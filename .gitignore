@@ -4,14 +4,14 @@
 .idea/workspace.xml
 *.pyc
 *.pyo
-__pycache__/
+./__pycache__/
 /Logs/*
 *.iml
 *.ipr
 .allure
 .gradle
 .cache
-*.log
+.log
 schema
 build
 /*/allure-results/
