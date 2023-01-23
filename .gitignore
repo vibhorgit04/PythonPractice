@@ -2,11 +2,16 @@
 !.idea/vcs.xml
 !.idea/icon.png
 .idea/workspace.xml
+*.pyc
+*.pyo
+__pycache__/
 /Logs/*
 *.iml
 *.ipr
 .allure
 .gradle
+.cache
+*.log
 schema
 build
 /*/allure-results/
