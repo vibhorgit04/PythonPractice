@@ -10,6 +10,7 @@
 .cache
 *.log
 schema
+./Report/
 **/__pycache__/
 *.pyc
 build
