@@ -1,3 +1,4 @@
+import allure
 import requests
 from behave import *
 
@@ -46,7 +47,8 @@ def step_impl(context):
     context.url = getProperties.getappurll + AddUser.GetUser
     context.headers = getProperties.getheaders
 
-
+@allure.description("Validate GET service with valid credentials")
+@allure.severity(severity_level="CRITICAL")
 @when(u'User execute GET operation')
 def step_impl(context):
     context.response = RequestHelper().get(endpoint=context.url, params=context.headers, expected_status_code=200)
