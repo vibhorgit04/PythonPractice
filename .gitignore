@@ -15,7 +15,7 @@
 schema
 Report/
 allure-report/
-*Always
+*.html
 **/__pycache__/
 *.pyc
 build
